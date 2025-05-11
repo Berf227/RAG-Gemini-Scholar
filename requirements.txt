@@ -1,0 +1,10 @@
+streamlit
+numpy
+faiss-cpu
+requests
+sentence-transformers
+PyPDF2
+diffusers
+transformers
+accelerate
+peft
